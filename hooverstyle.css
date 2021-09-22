@@ -1,5 +1,6 @@
 html {
     background-color: whitesmoke;
+    margin: 0;
 }
 
 header {
@@ -10,4 +11,26 @@ header {
     text-align: center;
     font-family: "Calisto";
     font-size: 48px;
+}
+
+h2 {
+    color: darkorange;
+    font-family: "Calisto";
+    font-size: 48px;
+}
+
+p {
+    color: black;
+    font-family: Verdana;
+    font-size: 14px;
+}
+
+.text {
+    margin: 40px;
+    padding: 20px;
+}
+
+.img {
+    margin: 40px;
+    padding: 20px;
 }
