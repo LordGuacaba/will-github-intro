@@ -1,0 +1,13 @@
+html {
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: darkorange;
+    color: white;
+    display: border-box;
+    padding: 30px;
+    text-align: center;
+    font-family: "Calisto";
+    font-size: 48px;
+}
