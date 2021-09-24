@@ -9,25 +9,25 @@ header {
     display: border-box;
     padding: 30px;
     text-align: center;
-    font-family: "Calisto";
+    font-family: "Georgia";
     font-size: 48px;
 }
 
 h2 {
     color: darkorange;
-    font-family: "Calisto";
+    font-family: "Georgia";
     font-size: 48px;
 }
 
 p {
     color: black;
-    font-family: Verdana;
-    font-size: 14px;
 }
 
 .text {
     margin: 10px 40px;
     padding: 10px;
+    font-family: Verdana;
+    font-size: 14px;
 }
 
 .img {
